@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: dracula
 highlight: shiki
 lineNumbers: true
 transition: slide-left
