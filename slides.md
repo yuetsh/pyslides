@@ -27,6 +27,9 @@ src: pages/文字和数字2.md
 src: pages/变量和赋值1.md
 ---
 
+---
+src: pages/变量和赋值2.md
+---
 
 ---
 src: pages/输入.md
