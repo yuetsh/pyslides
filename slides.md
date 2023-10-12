@@ -2,7 +2,7 @@
 theme: dracula
 highlight: shiki
 lineNumbers: true
-transition: slide-left
+transition: fade-out
 ---
 
 # Python 入门教程
