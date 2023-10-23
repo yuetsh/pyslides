@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: dracula
 highlight: shiki
 lineNumbers: true
 transition: fade-out
@@ -32,5 +32,14 @@ src: pages/变量和赋值2.md
 ---
 
 ---
-src: pages/输入.md
+src: pages/输入1.md
 ---
+
+---
+src: pages/输入2.md
+---
+
+---
+src: pages/输入3.md
+---
+
