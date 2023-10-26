@@ -8,7 +8,11 @@ transition: fade-out
 # Python 入门教程
 
 ---
-src: pages/输出.md
+src: pages/输出1.md
+---
+
+---
+src: pages/输出2.md
 ---
 
 ---
@@ -42,4 +46,3 @@ src: pages/输入2.md
 ---
 src: pages/输入3.md
 ---
-
