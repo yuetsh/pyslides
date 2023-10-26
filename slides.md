@@ -5,7 +5,7 @@ lineNumbers: true
 transition: fade-out
 ---
 
-# Python 入门教程
+# <logos-python/> Python 入门教程
 
 ---
 src: pages/输出1.md
