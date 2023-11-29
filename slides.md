@@ -64,5 +64,9 @@ src: pages/选择语句1.md
 ---
 
 ---
+src: pages/选择语句2.md
+---
+
+---
 src: pages/选择语句_练习1.md
 ---
