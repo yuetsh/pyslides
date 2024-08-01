@@ -1,6 +1,5 @@
 ---
 theme: dracula
-highlight: shiki
 lineNumbers: true
 transition: fade-out
 ---
